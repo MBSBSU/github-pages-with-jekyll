@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+World of Possibilities: "What can we do?"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to talk about ...data
